@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
 <head>
-<title>Interactive resume </title>
+Interactive resume
 </head>
 <body>
 
