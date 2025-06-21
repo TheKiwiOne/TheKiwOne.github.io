@@ -73,5 +73,10 @@ proactive security hunting </li> </p>
 <h2>Education</h2>
 <p></p>
 
+<footer>
+  <hr>
+  <p>© 2025 Sean Anderson | <a href="mailto:your@email.com">Contact</a></p>
+</footer>
+
 </body>
 </html>
