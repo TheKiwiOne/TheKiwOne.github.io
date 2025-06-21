@@ -1,1 +1,5 @@
-
+title: Sanderson Resume
+description: "Interactive resume using Jekyll and GitHub Pages"
+author: Sean Anderson
+markdown: kramdown
+theme: minima
