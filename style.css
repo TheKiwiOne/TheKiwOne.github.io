@@ -5,9 +5,14 @@ body {
 h1 {
   color: white;
   text-align: center;
+  font-family: monospace, "Lucidia Console";
 }
-
+h2 {
+  color: Orange;
+  text-align: center;
+  font-family: monospace, "Lucidia Console";
+}
 p {
-  font-family: verdana;
+  font-family: monospace, "Lucidia Console";
   font-size: 20px;
 }
