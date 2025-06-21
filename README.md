@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <HTML>
 <head>
 <title>Interactive resume</title>
